@@ -1,7 +1,7 @@
 # webpack_test
-This is a test directory using webpack.  
+This is a test directory using webpack 1.X.  
 
-### webpack
+### webpack 1.X
 https://webpack.github.io/docs/usage.html
 
 ### Memo (Gist)
